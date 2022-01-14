@@ -33,12 +33,12 @@ public class Logistics extends javax.swing.JFrame {
 
         jTable2.setModel(new javax.swing.table.DefaultTableModel(
                 new Object [][] {
-                        {1, null, null, null},
-                        {2, null, null, null},
-                        {3, null, null, null},
-                        {4, null, null, null},
-                        {5, null, null, null},
-                        {6, null, null, null}
+                        {null, null, null, null},
+                        {null, null, null, null},
+                        {null, null, null, null},
+                        {null, null, null, null},
+                        {null, null, null, null},
+                        {null, null, null, null}
                 },
                 new String [] {
                         "S.N", "NAME OF BOOKS", "BORROW DATE", "RETURN DATE"
